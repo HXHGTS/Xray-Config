@@ -1,3 +1,4 @@
+//此配置文件仅适用于提供warp分流解锁的情况
 {
     "log": {
         "loglevel": "warning"
